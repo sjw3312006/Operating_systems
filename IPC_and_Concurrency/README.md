@@ -18,5 +18,5 @@ An s-talk session is terminated when either user enters the complete line of tex
 ## Make file
 This project contains a makefile :
 ###
-      “make”: builds the program
-      “make clean”: erases all build products 
+      stalk : begin s-talk
+      clean : erases all build products 
